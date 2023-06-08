@@ -7,7 +7,9 @@ Registration Page
 <body bgcolor="Green">  
 <br>  
 <br>  
-<form>  
+<form> 
+
+<h1>Registration Page</h1>
   
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
